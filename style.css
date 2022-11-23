@@ -7,3 +7,18 @@
 body {
   background-color: rgb(253, 251, 251);
 }
+
+table, tr, td{
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+table {
+  background-color: lightgreen;
+}
+
+td {
+  background-color: brown;
+  padding: 5px 10px;
+  text-align: center;
+}
