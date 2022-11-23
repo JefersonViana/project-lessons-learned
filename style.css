@@ -1,6 +1,9 @@
 #cabecalho {
-     margin-top: 0px;
+     position: fixed;
+     top: 0;
+     background-color: blue;
 }
+
 
 body {
      background-color: rgb(253, 251, 251);
